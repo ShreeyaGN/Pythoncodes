@@ -15,7 +15,8 @@ print(j.paint_colour)
 print(j.gear_system)
 j.gear_system = "manual"
 print(k.paint_colour)
-print(k.gear_system)   
+print(k.gear_system) 
+   
 
 
 
